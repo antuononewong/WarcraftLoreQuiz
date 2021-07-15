@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WarcraftLoreQuiz</string>
+
+    <string name="lore_answer_text_box_hint">Tap to answer.</string>
+    <string name="previous_button_text">Prev</string>
+    <string name="next_button_text">Next</string>
+    <string name="ok_button_text">OK</string>
+
+    <string name="lore_question_thrall">What is the name of Thrall\'s original weapon?</string>
+    <string name="lore_question_jaina">What school of magic is Jaina Proudmoore known for?</string>
+    <string name="lore_question_sylvanas">Who became warchief of the Horde after Garrosh Hellscream?</string>
+    <string name="lore_question_anduin">What is the nickname of Anduin Wrynn?</string>
+    <string name="lore_question_arthas">What is the name of the original Lich King?</string>
+    <string name="lore_question_bwonsamdi">Who is the Loa of Death for the Darkspear trolls?</string>
+    <string name="lore_question_windrunner">How many Windrunner sisters are there? (Spell out the number)</string>
+    <string name="lore_question_kalecgos">Who is the current Blue aspect?</string>
+    <string name="lore_question_varian">Who sacrificed himself to save the Alliance forces against Guldan and the Legion?</string>
+</resources>
